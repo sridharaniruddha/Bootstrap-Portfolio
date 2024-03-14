@@ -21,3 +21,9 @@
         box-sizing: border-box;
     }
     /* Hero styling ends */
+
+
+    #about-me, #work, #work-2, #contact {
+  padding: 10px 30px 100px 30px;
+  margin: 0px;
+}
