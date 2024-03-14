@@ -22,7 +22,7 @@
 
 
     .navbar-nav .nav-link:hover {
-        background-color: rgb(255, 80, 168);
+        background-color: rgb(100, 51, 198);
         color: white;
     }
 
@@ -31,6 +31,7 @@
     /* Hero styling begins */
     .hero {
         background-size: cover;
+        background-color: hotpink;
         background-position: center;
         background-repeat: no-repeat;
         position: relative;
@@ -52,8 +53,10 @@
       }
 
       .profile-img img {
-        position: relative;
-        padding-left: 480px 40px 0px 10px;
+        width: 500px;
+        height: 500px;
+        margin-left: 30%;
+
       }
 
 
