@@ -34,7 +34,7 @@ The website should include the following bootstrap components:
 
     - A skills section
 
-      - List out the skills I will learn from the bootcamp.
+      - List out the skills I will learn from the boot camp.
 
     - An about / contact section.
 
@@ -58,9 +58,8 @@ Screenshots of my site below:
 ! [Image](assets/images/bootstrp_1.png)
 
 ! [Image](assets/images/bootstrap_2.png)
-<img width="1728" alt="bootstrp_1" src="https://github.com/sridharaniruddha/Bootstrap-Portfolio/assets/152184230/2f76b2c3-65e3-4629-9144-8e317ea5633f">
 
-<img width="1728" alt="bootstrap_2" src="https://github.com/sridharaniruddha/Bootstrap-Portfolio/assets/152184230/f29922b2-060a-40b5-91cc-b8b797e18909">
+<img width="1728" alt="Screenshot 2024-03-14 at 18 42 23" src="https://github.com/sridharaniruddha/Bootstrap-Portfolio/assets/152184230/e1417d39-f57d-4a5f-b36d-8243b896af7c">
 
 
 
