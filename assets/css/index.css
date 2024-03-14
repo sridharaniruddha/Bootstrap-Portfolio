@@ -38,12 +38,19 @@
         overflow: hidden;
     }
     
-    .hero img {
+    /* .hero img {
         width: 100%;
         height: 300px;
         display: block;
         box-sizing: border-box;
-    }
+    } */
+
+    .profile-img img {
+        width: 500px;
+        height: 500px;
+        display: block;
+        margin-left: 30%;
+      }
     /* Hero styling ends */
 
 
@@ -52,12 +59,7 @@
         text-align: center;
       }
 
-      .profile-img img {
-        width: 500px;
-        height: 500px;
-        display: block;
-        margin-left: 30%;
-      }
+
 
 
     #about-me, #work, #work-2, #contact {
