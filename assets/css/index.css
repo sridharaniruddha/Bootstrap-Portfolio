@@ -1,0 +1,23 @@
+    /* Navbar styling begins */
+    .navbar-brand img {
+        margin-right: 5px;
+        height: 3.5rem;
+    }
+    /* Navbar styling ends */
+
+    /* Hero styling begins */
+    .hero {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .hero img {
+        width: 100%;
+        height: 300px;
+        display: block;
+        box-sizing: border-box;
+    }
+    /* Hero styling ends */
