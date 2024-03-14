@@ -51,16 +51,20 @@ The website should include the following bootstrap components:
 ## Usage
 
 The site can be deployed by using the link [HERE] (https://sridharaniruddha.github.io/Bootstrap-Portfolio/)
-Previous HTML version of my site can be accesse [here] (https://sridharaniruddha.github.io/portfolio-playbook/)
+The previous HTML version of my site can be accessed [here] (https://sridharaniruddha.github.io/portfolio-playbook/)
 
 Screenshots of my site below:
 
 ! [Image](assets/images/bootstrp_1.png)
 
 ! [Image](assets/images/bootstrap_2.png)
+<img width="1728" alt="bootstrp_1" src="https://github.com/sridharaniruddha/Bootstrap-Portfolio/assets/152184230/2f76b2c3-65e3-4629-9144-8e317ea5633f">
+
+<img width="1728" alt="bootstrap_2" src="https://github.com/sridharaniruddha/Bootstrap-Portfolio/assets/152184230/f29922b2-060a-40b5-91cc-b8b797e18909">
+
 
 
 ## Credits
 
-Tutorials from edX skills Bootcamp
+Tutorials from edX Skills Bootcamp
 Logo font: Kaerukaeru by Velvetyne FR
